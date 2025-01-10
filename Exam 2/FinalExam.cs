@@ -81,7 +81,7 @@ namespace Exam_2
 
 
 
-                if ( Question.Header == " MCQ Question ")
+                if ( Question.Header == "MCQ Question")
                 {
 
 
